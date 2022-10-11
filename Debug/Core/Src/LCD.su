@@ -1,0 +1,9 @@
+lcd.c:30:6:tempo_us	24	static,ignoring_inline_asm
+lcd.c:41:6:enable	8	static
+lcd.c:49:6:lcd_write	24	static
+lcd.c:69:6:lcd_puts	16	static
+lcd.c:78:6:lcd_printd	32	static
+lcd.c:94:6:lcd_putc	16	static
+lcd.c:101:6:lcd_goto	16	static
+lcd.c:108:6:lcd_clear	8	static
+lcd.c:113:6:lcd_init	8	static
